@@ -1,6 +1,6 @@
 # Everything Search Skill
 
-> **v2.1.0**  ·  2026-11-24
+> **v2.1.0**　·　2026-11-24
 > 🚀 Lightning-fast file search for AI agents using Everything (es.exe) — by filename **and by file content**
 
 ## Features
